@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mallikharjuna160003
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sunkara Mallikharjuna
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning ReactJS, Using Python in daily life
+- 💞️ I’m looking to collaborate on Open Source Webapps 
+- 📫 How to reach me +91-9160009636
 
 <!---
 mallikharjuna160003/mallikharjuna160003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
