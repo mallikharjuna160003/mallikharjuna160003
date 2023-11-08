@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunkara Mallikharjuna
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning ReactJS, Using Python in daily life
+- 🌱 Problem solving on Leetcode and Geeksforgeeks
 - 💞️ I’m looking to collaborate on Open Source Webapps 
 - 📫 How to reach me +91-9160009636
 - > [!GMAIL]   sunkaramallikharjuna90@gmail.com
